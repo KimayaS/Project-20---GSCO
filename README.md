@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Project 20 - GSCO
+ https://kimayas.github.io/Project-20-GSCO/.
